@@ -28,8 +28,6 @@ namespace Tracker
         }
 
         public HistoryType HistoryType { get; set; }
-
-
-
     }
+
 }

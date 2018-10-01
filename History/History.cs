@@ -9,16 +9,11 @@ namespace History
 
     public delegate void EventTransactionHandler(int history);
 
-
     public class Event
     {
-
         public static void EventTransaction(int c) {
 
             Console.WriteLine("EventTransaction called {0}.", c);
-
         }
-
-
     }
 }
