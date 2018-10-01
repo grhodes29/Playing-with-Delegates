@@ -1,0 +1,12 @@
+C:\Github\Playing with Delegates\Playing with Delegates\bin\Debug\Playing with Delegates.exe.config
+C:\Github\Playing with Delegates\Playing with Delegates\bin\Debug\Playing with Delegates.exe
+C:\Github\Playing with Delegates\Playing with Delegates\bin\Debug\Playing with Delegates.pdb
+C:\Github\Playing with Delegates\Playing with Delegates\obj\Debug\Playing with Delegates.csprojResolveAssemblyReference.cache
+C:\Github\Playing with Delegates\Playing with Delegates\obj\Debug\Playing with Delegates.csproj.CoreCompileInputs.cache
+C:\Github\Playing with Delegates\Playing with Delegates\obj\Debug\Playing with Delegates.exe
+C:\Github\Playing with Delegates\Playing with Delegates\obj\Debug\Playing with Delegates.pdb
+C:\Github\Playing with Delegates\Playing with Delegates\bin\Debug\Tracker.dll
+C:\Github\Playing with Delegates\Playing with Delegates\bin\Debug\Tracker.pdb
+C:\Github\Playing-with-Delegates\Playing with Delegates\bin\Debug\Playing with Delegates.exe.config
+C:\Github\Playing-with-Delegates\Playing with Delegates\obj\Debug\Playing with Delegates.exe
+C:\Github\Playing-with-Delegates\Playing with Delegates\obj\Debug\Playing with Delegates.pdb

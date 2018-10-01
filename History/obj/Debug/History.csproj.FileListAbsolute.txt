@@ -1,0 +1,11 @@
+C:\Github\Playing with Delegates\History\bin\Debug\History.dll
+C:\Github\Playing with Delegates\History\bin\Debug\History.pdb
+C:\Github\Playing with Delegates\History\obj\Debug\History.csprojResolveAssemblyReference.cache
+C:\Github\Playing with Delegates\History\obj\Debug\History.csproj.CoreCompileInputs.cache
+C:\Github\Playing with Delegates\History\obj\Debug\History.dll
+C:\Github\Playing with Delegates\History\obj\Debug\History.pdb
+C:\Github\Playing-with-Delegates\History\bin\Debug\History.dll
+C:\Github\Playing-with-Delegates\History\bin\Debug\History.pdb
+C:\Github\Playing-with-Delegates\History\obj\Debug\History.csprojResolveAssemblyReference.cache
+C:\Github\Playing-with-Delegates\History\obj\Debug\History.dll
+C:\Github\Playing-with-Delegates\History\obj\Debug\History.pdb

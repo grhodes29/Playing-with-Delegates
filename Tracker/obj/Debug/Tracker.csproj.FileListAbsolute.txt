@@ -1,0 +1,5 @@
+C:\Github\Playing with Delegates\Tracker\bin\Debug\Tracker.dll
+C:\Github\Playing with Delegates\Tracker\bin\Debug\Tracker.pdb
+C:\Github\Playing with Delegates\Tracker\obj\Debug\Tracker.csproj.CoreCompileInputs.cache
+C:\Github\Playing with Delegates\Tracker\obj\Debug\Tracker.dll
+C:\Github\Playing with Delegates\Tracker\obj\Debug\Tracker.pdb
